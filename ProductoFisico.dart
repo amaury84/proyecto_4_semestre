@@ -1,0 +1,3 @@
+class ProductoFisico extends Producto{
+
+}
